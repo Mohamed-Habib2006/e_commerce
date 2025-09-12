@@ -1,16 +1,15 @@
-# e_commerce
+ # 🛍 E-Commerce App
 
-A new Flutter project.
+A simple Flutter e-commerce application.  
+This project is built using *Flutter* and *Dart* to demonstrate product listing, cart functionality, and navigation between screens.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Getting Started
 
-A few resources to get you started if this is your first Flutter project:
+To run this project locally:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Make sure you have [Flutter](https://docs.flutter.dev/get-started/install) installed.
+2. Clone this repository:
+   ```bash
+   git clone https://github.com/Mohamed-Habib2006/e_commerce.git
